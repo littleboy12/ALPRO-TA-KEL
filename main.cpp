@@ -53,7 +53,7 @@ void Main :: getName (int jml) {
     }
     setSystem();
 }
-/*INPUT DATA MAHASISWA*/
+/*END--INPUT DATA MAHASISWA*/
 
 void Main :: setSystem () {
     int pil;
