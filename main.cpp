@@ -102,16 +102,6 @@ void Main :: setPer() {
     inpCount(pil);
 }
 
-// void Main :: setInp(int per) {
-//     cout << endl;
-//     int pil;
-//     cout << "Input Nilai Bedasarkan :\n1. Jumlah Praktikan \n2. Nama\nPilih : "; cin >> pil;
-//     if (pil == 1) {
-//         inpCount();
-//         system("cls");
-//     }
-// }
-
 void Main :: inpCount(int per) {
     int jml;
     cout << "Jumlah Praktikan Yang Belum Di Input : " << data.jmlMahasiwa << endl << endl;
